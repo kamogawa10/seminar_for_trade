@@ -1,5 +1,10 @@
 使えそうなデータセット置いときます
 <br>
 なおtickデータは200Mb超えてるのでgithubちゃんにNGくらいました
+<br>
 https://drive.google.com/file/d/1Dj-mqagT9iqwFenHZZ_QFnOa-uUeTXig/view?usp=sharing
 ここからとってください
+<br>
+タイムバーはこっち
+<br>
+https://drive.google.com/file/d/1-1KKc80riGnp2kblEPVVKL2hvKqWx9sJ/view?usp=sharing
