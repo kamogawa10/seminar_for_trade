@@ -2,8 +2,9 @@
 <br>
 なおtickデータは200Mb超えてるのでgithubちゃんにNGくらいました
 <br>
-https://drive.google.com/file/d/1Dj-mqagT9iqwFenHZZ_QFnOa-uUeTXig/view?usp=sharing
 ここからとってください
+<br>
+https://drive.google.com/file/d/1Dj-mqagT9iqwFenHZZ_QFnOa-uUeTXig/view?usp=sharing
 <br>
 タイムバーはこっち
 <br>
